@@ -1,5 +1,5 @@
 let data = {
-    REPEAT_COUNT: 100000,
+    REPEAT_COUNT: 10000000,
     CHAR: "Hello, world!"
   }
   
