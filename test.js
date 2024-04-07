@@ -11,6 +11,7 @@ let data = {
       char = data.CHAR.repeat(i+1);
     }
     console.log("Pong! " + (Date.now() - startTime) + "ms");
+    console.log("dummy character : " + char.length + "length");
   }
   
   ping();
