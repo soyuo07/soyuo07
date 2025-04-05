@@ -1,7 +1,7 @@
 ___**Hello, world!**___
 =
 - This is soyuo07~
-- I am 17 years old in Korea
+- 2007.07.28
 
 __**My Info**__
 =
