@@ -1,7 +1,6 @@
 ___**Hello, world!**___
 =
 - This is soyuo07~
-- 2007.07.28
 
 __**My Info**__
 =
